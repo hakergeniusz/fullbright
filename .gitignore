@@ -1,1 +1,21 @@
 /target
+
+# Secrets (never commit)
+.env
+.env.*
+secrets.*
+secret.*
+*.key
+*.pem
+*.secret
+*.enc
+id_*
+.ssh/
+.npmrc
+.aws/
+.gcp/
+
+# Local noise
+*.log
+*.tmp
+*.cache
