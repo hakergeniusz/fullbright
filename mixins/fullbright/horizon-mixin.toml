@@ -6,7 +6,7 @@ priority = 100
 # The commit it was tested on. It uses only the native hook points (hooks 1 in
 # compatibility.json): the launcher builds it on any Horizon that has them.
 [compatibility]
-horizon_revision = "27cb8f96bfab58a6b5892d0cea5e630280d93657"
+horizon_revision = "af55a734865da4f1b11836164a979ff06a1f0449"
 
 # The state (the toggle, the mode, the gamma strength) and the toggle key as
 # plain values, with the tests.
